@@ -1,7 +1,6 @@
-Bu proje, kartlar üzerindeki pilot ve basketbolcuların özelliklerinin 
-karşılaştırıldığı bir oyundur.
-Proje çalıştırıldıktan sonra play butonuna basılarak oyun başlatılır.
-Daha sonra kullanıcı ismi girilir ve deal butonuna basılır.
-Kullanıcı önüne gelen kartlar birini seçerek oyuna başlar. Ortada yazan 
-sporcu özelliğine göre kimin kartının puanı yüksekse o kişi 10 puan kazanır.
-Kartlar bittiğinde ekrana kazanan kişinin ismi yazılacaktır.
+This project compares the attributes of the pilots and basketball players on the cards.
+After the project is run, the game is start by clicking the PLAY button.
+Enter your username and click on DEAL button.
+The user starts the game by choosing one of the cards.
+Depending on the selected attribute, whoever's card has the highest score gets 10 points.
+When the cards are finished, the name of the winner will be written on the screen.
